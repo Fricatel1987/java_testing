@@ -1,4 +1,4 @@
-package ru.stqa.testing.sandox;
+package ru.stqa.testing.sandbox;
 
 public class Square {
 

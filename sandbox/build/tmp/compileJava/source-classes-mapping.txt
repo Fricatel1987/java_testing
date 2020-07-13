@@ -1,6 +1,6 @@
-ru/stqa/testing/sandox/Rectangle.java
- ru.stqa.testing.sandox.Rectangle
-ru/stqa/testing/sandox/MyFirstProgram.java
- ru.stqa.testing.sandox.MyFirstProgram
-ru/stqa/testing/sandox/Square.java
- ru.stqa.testing.sandox.Square
+ru/stqa/testing/sandbox/Square.java
+ ru.stqa.testing.sandbox.Square
+ru/stqa/testing/sandbox/Rectangle.java
+ ru.stqa.testing.sandbox.Rectangle
+ru/stqa/testing/sandbox/MyFirstProgram.java
+ ru.stqa.testing.sandbox.MyFirstProgram
