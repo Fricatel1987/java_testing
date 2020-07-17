@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test2" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-07-17T17:38:18" hostname="DESKTOP-AQ5U5ML" time="0.01">
+  <properties/>
+  <testcase name="login" classname="Test2" time="0.005"/>
+  <testcase name="setup" classname="Test2" time="0.0"/>
+  <testcase name="teardown" classname="Test2" time="0.001"/>
+  <system-out><![CDATA[this is login test
+this is setup test
+closing browser
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
