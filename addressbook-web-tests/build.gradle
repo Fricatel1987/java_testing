@@ -5,7 +5,9 @@ repositories {
 }
 
 dependencies {
-    testCompile group: 'org.testng', name: 'testng', version: '7.1.0'
+    compile group: 'org.testng', name: 'testng', version: '7.1.0'
+    compile 'org.seleniumhq.selenium:selenium-java:4.0.0-alpha-6'
+
 }
 
 test {
