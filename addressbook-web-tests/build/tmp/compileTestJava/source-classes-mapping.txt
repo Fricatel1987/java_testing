@@ -8,6 +8,8 @@ ru/stqa/testing/addressbook/Tests/TestBase.java
  ru.stqa.testing.addressbook.Tests.TestBase
 ru/stqa/testing/addressbook/Tests/GroupRemovingTests.java
  ru.stqa.testing.addressbook.Tests.GroupRemovingTests
+ru/stqa/testing/addressbook/appmanager/HelperBase.java
+ ru.stqa.testing.addressbook.appmanager.HelperBase
 ru/stqa/testing/addressbook/appmanager/GroupHelper.java
  ru.stqa.testing.addressbook.appmanager.GroupHelper
 ru/stqa/testing/addressbook/appmanager/SessionHelper.java
