@@ -10,6 +10,7 @@ public class ApplicationManager {
   private NavigationHelper navigationHelper;
   private GroupHelper groupHelper;
   private SessionHelper sessionHelper;
+  private ContactHelper contactHelper;
   private StringBuffer verificationErrors = new StringBuffer();
 
   public void init() {
@@ -21,7 +22,9 @@ public class ApplicationManager {
     groupHelper = new GroupHelper(driver);
     navigationHelper = new NavigationHelper(driver);
     sessionHelper = new SessionHelper(driver);
+    contactHelper = new ContactHelper(driver);
     sessionHelper.login("admin", "secret");
+
   }
 
   public void stop() {
@@ -30,6 +33,10 @@ public class ApplicationManager {
     if (!"".equals(verificationErrorString)) {
       fail(verificationErrorString);
     }
+  }
+
+  public ContactHelper getContactHelper(){
+    return contactHelper;
   }
 
   public GroupHelper getGroupHelper() {
