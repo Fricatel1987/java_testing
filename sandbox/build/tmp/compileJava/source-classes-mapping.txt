@@ -4,3 +4,5 @@ ru/stqa/testing/sandbox/Rectangle.java
  ru.stqa.testing.sandbox.Rectangle
 ru/stqa/testing/sandbox/MyFirstProgram.java
  ru.stqa.testing.sandbox.MyFirstProgram
+ru/stqa/testing/sandbox/Equation.java
+ ru.stqa.testing.sandbox.Equation
