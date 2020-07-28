@@ -10,3 +10,5 @@ ru/stqa/testing/sandbox/Equality.java
  ru.stqa.testing.sandbox.Equality
 ru/stqa/testing/sandbox/Primes.java
  ru.stqa.testing.sandbox.Primes
+ru/stqa/testing/sandbox/Collections.java
+ ru.stqa.testing.sandbox.Collections
