@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.testing.addressbook.Tests.GroupCreationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-20T15:38:18" hostname="DESKTOP-AQ5U5ML" time="1.086">
+  <properties/>
+  <testcase name="testGroupCreationTests" classname="ru.stqa.testing.addressbook.Tests.GroupCreationTests" time="1.086"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1611157095656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\artur\\AppData\\Local\\Temp\\rust_mozprofileCPxxrq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611157097616	Marionette	INFO	Listening on port 49356
+1611157097675	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 20, 2021 10:38:17 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
